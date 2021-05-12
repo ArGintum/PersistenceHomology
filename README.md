@@ -7,7 +7,9 @@
 Запустить make из папки с файлами Makefile и PersistenceCalculator.cpp
 
 ## Запуск
-./PersistenceCalculator [Имя файла с входными данными] [Параметры]
+```sh
+$ ./PersistenceCalculator [Имя файла с входными данными] [Параметры]
+```
 
 Доступные Параметры:
 -  "--output": Имя выходного файла (по умолчанию output.txt )
