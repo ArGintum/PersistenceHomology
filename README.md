@@ -1,7 +1,7 @@
 # PersistenceHomology
 
 ## Зависимости:
-Необходимо наличие пакетов Boost и TBB (github.com/oneapi-src/oneTBB)
+Необходимо наличие пакетов Boost и TBB (http://www.github.com/oneapi-src/oneTBB )
 
 ## Сборка:
 Запустить make из папки с файлами Makefile и PersistenceCalculator.cpp
