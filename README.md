@@ -58,7 +58,7 @@ $ ./PersistenceCalculator examples/H3N2_300.txt
 
  - Improve performance of Edge Collapse procedure by changing model of graph representation
  - Add option of representative cycles for persistent homology
- - Add support of prime fields other than Z/*p*Z 
+ - Add support of prime fields other than Z/*2*Z 
  - ...
  - Consider possible use of more "topological" way to simplify filtrations (maybe by exploring spectral sequences)
 
