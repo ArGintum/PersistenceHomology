@@ -64,6 +64,5 @@ $ ./PersistenceCalculator examples/H3N2_300.txt
 
 
 ## Version
-```
-1.0.3
-```
+
+`1.0.3` July 2021.
