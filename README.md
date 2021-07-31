@@ -1,6 +1,6 @@
 # PersistenceHomology
 
-A small but developing tool for fast computation of Persistence Diagram of Flag Filtrations. This work was inspired by [Ripser](https://github.com/Ripser/ripser) and uses some of the key ideas gathered there while exchanging some others for better options to parallelize computations.
+A small but developing tool for fast computation of Persistence Diagram of Flag Filtrations. This work was inspired by [Ripser](https://github.com/Ripser/ripser) and uses some of the key ideas gathered there.
 
 Here implemented basic algorithm of persistence diagram computation with some additional speed-ups inspired by other researches in computational topology:
  - Reducing the size of filtration by removing non-important simplices via the procedure of Edge Collapse (as it was [described](https://hal.inria.fr/hal-02873740) by J.-D. Boissonnat and S.Pritam). It's an optional preprocessing step 
