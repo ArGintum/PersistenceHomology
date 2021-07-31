@@ -57,6 +57,7 @@ $ ./PersistenceCalculator examples/H3N2_300.txt
 ## Plans for future (aka TODO list)
 
  - Improve performance of Edge Collapse procedure by changing model of graph representation
+ - Enable usage of apparent pairs shortcut from Ripser
  - Add option of representative cycles for persistent homology
  - Add support of prime fields other than Z/*2*Z 
  - ...
