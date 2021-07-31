@@ -11,7 +11,7 @@ Here implemented basic algorithm of persistence diagram computation with some ad
 
 
 ## Requirments:
-This solution requires C++ template libraries [Boost](https://www.boost.org/)) (version >= 1.71.0,  and [ntel Thread Building Blocks](http://www.github.com/oneapi-src/oneTBB)
+This solution requires C++ template libraries [Boost](https://www.boost.org/) (version >= 1.71.0,  and [Intel Thread Building Blocks](http://www.github.com/oneapi-src/oneTBB)
 
 ## Building:
 This project requires a C++17 compiler. Here is how this project can be obtained and built:
