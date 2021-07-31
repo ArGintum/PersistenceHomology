@@ -1,4 +1,4 @@
-# PersistenceHomology
+# Persistence Calculator
 
 A small but developing tool for fast computation of Persistence Diagram of Flag Filtrations. This work was inspired by [Ripser](https://github.com/Ripser/ripser) and uses some of the key ideas gathered there.
 
